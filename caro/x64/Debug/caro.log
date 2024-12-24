@@ -1,0 +1,10 @@
+﻿  control.cpp
+  Menu.cpp
+  model.cpp
+  Source.cpp
+  View.cpp
+C:\Users\PC\Downloads\caro 1\lam roi\Nhom 1\caro\View.cpp(168,6): warning C4101: 'buf': unreferenced local variable
+  Generating Code...
+C:\Users\PC\Downloads\caro 1\lam roi\Nhom 1\caro\Menu.cpp(93,1): warning C4715: 'MAIN_Menu_Run': not all control paths return a value
+C:\Users\PC\Downloads\caro 1\lam roi\Nhom 1\caro\control.cpp(140,1): warning C4715: 'WinCheck': not all control paths return a value
+  caro.vcxproj -> C:\Users\PC\Downloads\caro 1\lam roi\Nhom 1\x64\Debug\caro.exe
